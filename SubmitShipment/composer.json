@@ -1,0 +1,26 @@
+{
+    "name": "kloner/module-submitshipment",
+    "description": "",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Mage2Gen",
+            "email": "info@mage2gen.com"
+        },
+        {
+            "name": "Francis Abad",
+            "email": "francisabad93@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kloner\\SubmitShipment\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
